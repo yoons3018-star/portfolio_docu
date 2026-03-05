@@ -13344,7 +13344,7 @@ function Cn() {
                                     }), (0, f.jsxs)(`li`, {
                                         children: [(0, f.jsx)(`i`, {
                                             className: `ri-circle-line`
-                                        }), ` 참여기간 : 24.04.30 ~ 24.07.31`]
+                                        }), ` 참여기간 : 24.11.01 ~ 24.12.30`]
                                     }), (0, f.jsxs)(`li`, {
                                         children: [(0, f.jsx)(`i`, {
                                             className: `ri-circle-line`
@@ -13357,7 +13357,7 @@ function Cn() {
                                     }), (0, f.jsxs)(`li`, {
                                         children: [(0, f.jsx)(`i`, {
                                             className: `ri-circle-line`
-                                        }), ` 참여기간 : 24.11.01 ~ 24.12.30`]
+                                        }), ` 참여기간 : 24.04.30 ~ 24.07.31`]
                                     }), (0, f.jsxs)(`li`, {
                                         children: [(0, f.jsx)(`i`, {
                                             className: `ri-circle-line`
